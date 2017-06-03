@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8DAE8C1A-0A36-F47D-B1AA-FC912BCF8C4F}|">
+  <MonoDevelop.Ide.ItemProperties.RockPaperScissors PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controllers/XBOXInputController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Controllers/GameController.cs" Line="53" Column="9" />
+      <File FileName="Assets/Scripts/Objects/Player.cs" Line="57" Column="26" />
+      <File FileName="Assets/Scripts/Commands/SaveDealCards.cs" Line="9" Column="11" />
+      <File FileName="Assets/Scripts/Commands/DealCards.cs" Line="30" Column="7" />
+      <File FileName="Assets/Scripts/Objects/Card.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Objects/Command.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Commands/GUIChange.cs" Line="13" Column="2" />
+      <File FileName="Assets/Scripts/Commands/EvaluateRules.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Controllers/InputHandler.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/Controllers/XBOXInputController.cs" Line="48" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/camiloromero/Proyectos/RockPaperScissors/Assets/Scripts/Controllers/XBOXInputController.cs" relfile="Assets/Scripts/Controllers/XBOXInputController.cs" line="32" column="1" />
+      <Breakpoint file="/Users/camiloromero/Proyectos/RockPaperScissors/Assets/Scripts/Controllers/XBOXInputController.cs" relfile="Assets/Scripts/Controllers/XBOXInputController.cs" line="38" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
